@@ -7,7 +7,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssoj0612)](https://solved.ac/sssoj0612)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sssoj0612)](https://solved.ac/sssoj0612)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssoj0612&exclude_repo=sssoj0612.github.io&layout=compact&theme=nord" width="32%" height="158.95"/><img src="https://github-readme-stats.vercel.app/api?username=sssoj0612&theme=nord&show_icons=true" width="45%"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssoj0612&exclude_repo=sssoj0612.github.io&layout=compact&theme=nord" width="32%"/><img src="https://github-readme-stats.vercel.app/api?username=sssoj0612&theme=nord&show_icons=true" width="45%" height="178" />
 
 <br>
 
