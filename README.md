@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=400&size=40&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=60&lines=This%20is%20Sojeong's%20Github!%20👋)](https://git.io/typing-svg)
 ---
-<a style="text-align:center;">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssoj0612&exclude_repo=sssoj0612.github.io&layout=compact&theme=nord" width="32%"/><img src="https://github-readme-stats.vercel.app/api?username=sssoj0612&theme=nord&show_icons=true" width="45%" height="148.89" />
-</a>
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssoj0612)](https://solved.ac/sssoj0612)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sssoj0612)](https://solved.ac/sssoj0612)
