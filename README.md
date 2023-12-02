@@ -3,13 +3,11 @@
 ![Sojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssoj0612&theme=nord&show_icons=true)
 
 ## 📢 INTRODUCE
-* :camel: 이&nbsp;&nbsp;&nbsp;&nbsp;름 : 김소정
-* :camel: 이메일 : sssoj0612@gmail.com
-* :camel: 취&nbsp;&nbsp;&nbsp;&nbsp;미 : 시루랑 산책
+*  이&nbsp;&nbsp;&nbsp;&nbsp;름 : 김소정
+*  이메일 : sssoj0612@gmail.com
+*  취&nbsp;&nbsp;&nbsp;&nbsp;미 : 시루랑 산책
 
 ## :desktop_computer: SKILL
 ```sh
-cd dillinger
-npm i
-node app
+추가중
 ```
